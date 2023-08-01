@@ -11,7 +11,7 @@ My website is hosted on [AWS S3](https://aws.amazon.com/s3/) (Simple Storage Ser
 
 🌟 **Check it out here: [abdallahamir.website](https://abdallahamir.website/)**
 
-I created a detailed guide of the process I followed, check it out here: 👨‍💻 [Creating a personal website with Notion, AWS S3, Cloudflare, and Namecheap](https://abdallahamir.website/creating-a-personal-website-with-notion-aws-s3-cloudflare-and-namecheap.html)
+I created a detailed guide of the process I followed, check it out here: 👨‍💻 [Creating a personal website with Notion, AWS S3, Cloudflare, and Namecheap](https://abdallahamir.me/Creating-a-personal-website-with-Notion-AWS-S3-Cloudflare-and-Namecheap)
 
 ---
 ## 📖 Refrences
