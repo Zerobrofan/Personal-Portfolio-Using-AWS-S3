@@ -1,6 +1,6 @@
 # 🌐 Static Website Hosting Using AWS S3
 <div align="center" id="top">
-  <img src="https://user-images.githubusercontent.com/100843256/236034962-910fd54f-aa98-477f-bc20-318390d10ad3.png" width="900" alt="StudyMe" /><br><br><br>
+  <img src="https://github.com/Zerobrofan/Static-Website-Hosting-Using-AWS-S3/assets/100843256/c539f639-0810-4863-8416-16b180e34f45" width="800" alt="AWS" /><br><br><br>
 
   <a href="https://abdallahamir.website/">🌐 View Website Here -></a>
 </div>
