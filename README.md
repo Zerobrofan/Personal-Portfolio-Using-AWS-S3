@@ -2,7 +2,7 @@
 <div align="center" id="top">
   <img src="https://github.com/Zerobrofan/Static-Website-Hosting-Using-AWS-S3/assets/100843256/c539f639-0810-4863-8416-16b180e34f45" width="800" alt="AWS" /><br><br><br>
 
-  <a href="https://abdallahamir.website/">🌐 View Website Here -></a>
+  <a href="https://abdallahamir.website/">🌐 View Website Here -></a> | <a href="https://abdallahamir.me/Creating-a-personal-website-with-Notion-AWS-S3-Cloudflare-and-Namecheap">📖 View Guide Here -></a>
 </div>
 
 ---
